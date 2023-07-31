@@ -28,4 +28,14 @@
 
 Перед переключением версии файла в Git используйте команду git log, чтобы увидеть количество сохранений.
 
+### Команда *git branch*
+
+### Команда *git branch "name of new branch"*
+
+### Команда *git branch -d*
+
+### Команда *git checkout "name of the branch"*
+
+### Команда *git merge*
+
 
