@@ -32,9 +32,12 @@
 Если у нас несколько версий черновика, мы можем вывести на экран ветку, где находимся, командой *git branch*.
 
 ### Команда *git branch "name of new branch"*
-Создать ветку можно командой git branch. Делать это надо в папке с репозиторием: *git branch git branch <название новой ветки>*
+Создать ветку можно командой git branch. Делать это надо в папке с репозиторием: * git branch <название новой ветки>*
 
 ### Команда *git branch -d*
+Если ветка text formatting больше не нужна, ее можно удалить:
+
+*git branch -d "name of deletable branch"*
 
 ### Команда *git checkout "name of the branch"*
 
